@@ -1,5 +1,7 @@
 # 📊 Telecom Churn Prediction using Machine Learning
 
+![Telecom Churn Banner](Telecom-Churn-main/finger-pressing-red-icon.jpg)
+
 ## 🚀 Project Overview
 Customer churn is a critical challenge in the telecom industry, where losing customers directly impacts revenue and growth. This project aims to build a robust machine learning model to predict whether a customer is likely to churn based on their demographic details, service usage patterns, and account information.
 
